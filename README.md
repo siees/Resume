@@ -22,6 +22,7 @@ Early-stage startup focused on automated API testing and NLP.
 
 **Bachelor of Sciences** in Software Engineering<br>
 [ESPRIT](https://esprit.tn) - Ariana, TN _(2015 - 2020)_
+<br><br>
 
 ## 📌 On The Side
 
@@ -43,12 +44,14 @@ Non-profit digital school for tech-interested newcomers applying for asylum in G
 ## 🙋‍♂️ Volunteer Experience
     
 **Member** @ [Junior Chamber International Belvédère](https://jci.cc) _(Jun 2021 - Present)_ <br>
-Built a web Application that calculates potential social, cultural and political risks in regions depending on a pre-set handbook which analyses news and their contents. <br><br>
+Built a web Application that calculates potential social, cultural and political risks in regions depending on a pre-set handbook which analyses news and their contents.
+<br><br>
   
 ## 🏆 Accomplishments
 
 **Second place** @ [Tunisia Center for Global Security Studies Hackathon](http://www.ctesg.org) _(Feb 2020)_ <br>
-Built a web Application that calculates potential social, cultural and political risks in regions depending on a pre-set handbook which analyses news and their contents. <br><br>
+Built a web Application that calculates potential social, cultural and political risks in regions depending on a pre-set handbook which analyses news and their contents.
+<br><br>
 
 ## 💬 Languages
 
