@@ -1,21 +1,17 @@
 # Mohamed Anouar HRAIRI
 
-_Natural problem solver with strong interpersonal skills and a degree in computer software. Seeking a challenging opportunity to develop and manage large projects where my advanced skills, education and couple years of experience can be fully utilized_ <br>
+_Natural problem solver with strong interpersonal skills and a degree in computer software. Seeking a challenging opportunity to develop and manage large projects where my advanced skills, education and couple years of experience can be fully utilized._ <br>
 
 [Email](mailto:medanouar.hrairi@gmail.com) / [LinkedIn](https://www.linkedin.com/in/mohamedanouarhrairi/) / [GitHub](https://github.com/siees)
 
 ## 👩🏼‍💻 Professional Experience
 
 **Software Engineer** @ [Solutions Express QC](https://www.facebook.com/solutionsexpressqc) _(Jan 2020 - Present)_ <br>
-Early-stage startup focused on automated API testing and NLP.
-  - Built the [website](https://meeshkan.com/) and the initial web app that visualized the test reports
-  - Maintained [unmock-js](https://github.com/meeshkan/unmock-js), an open-source fuzz testing library
+Software services Agency focused on providing digital solutions for the canadian market.
+  - Collaborated with marketing, human ressource and finance departments to analyse and conceive a new solution architecture that focuses on improving information integration between departments, reducing .
+  - Designed and developed a Customer Relationship Management system for sales departement that increased sales team performance by 65%.
   - Ownership of Meeshkan's documentation and technical blog
-  - **_Technologies used:_** TypeScript, React, Gatsby, Chakra, Next.js, Node.js, GraphQL, REST, Jest, CircleCI, Python.
-  - **_Selected open-source work:_**
-    - [Jest configuration for the unmock-js runner](https://github.com/meeshkan/unmock-jest-runner)
-    - [Property-based testing for JavaScript developers](https://dev.to/meeshkan/property-based-testing-for-javascript-developers-21b2)
-    - [HTTP Mocking Toolkit documentation](https://github.com/meeshkan/hmt)
+  - **_Technologies used:_** TypeScript, React, Redux, Next.js, Node.js, Express, MongoDB, REST, Jest, Python.
     <br><br>
 
 ## 👩🏼‍🎓 Education
