@@ -4,17 +4,17 @@ _Natural problem solver with strong interpersonal skills and a degree in compute
 
 [Email](mailto:medanouar.hrairi@gmail.com) / [LinkedIn](https://www.linkedin.com/in/mohamedanouarhrairi/) / [GitHub](https://github.com/siees)
 
-## 👩🏼‍💻 Professional Experience
+## 👨‍💻 Professional Experience
 
 **Software Engineer** @ [Solutions Express QC](https://www.facebook.com/solutionsexpressqc) _(Jan 2020 - Present)_ <br>
 Software services Agency focused on providing digital solutions for the canadian market.
-  - Collaborated with marketing, human ressource and finance departments to analyse and conceive a new solution architecture that focuses on improving information integration between departments, reducing .
-  - Designed and developed a Customer Relationship Management system for sales departement that increased sales team performance by 65%.
-  - Ownership of Meeshkan's documentation and technical blog
+  - Collaborated with marketing, human ressource and finance departments to analyse and conceive a new solution architecture that focuses on improving information integration between departments, reducing security vulnerabilities, and highlighting employees performance.
+  - Designed and developed a Customer Relationship Management system for sales departement that increased sales team performance by 65%
+  - Managed employee training for all new recruits over a 3 months period and offered continuous advice, guidance, and mentorship on duties and best practices
   - **_Technologies used:_** TypeScript, React, Redux, Next.js, Node.js, Express, MongoDB, REST, Jest, Python.
     <br><br>
 
-## 👩🏼‍🎓 Education
+## 👨‍🎓 Education
 
 **Bachelor of Sciences** in Software Engineering<br>
 [ESPRIT](https://esprit.tn) - Ariana, TN _(2015 - 2020)_
