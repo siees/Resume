@@ -16,7 +16,7 @@ Software services Agency focused on providing digital solutions for the canadian
 
 ## 👨‍🎓 Education
 
-**Bachelor of Sciences** in Software Engineering<br>
+**Bachelor of Science** in Software Engineering<br>
 [ESPRIT](https://esprit.tn) - Ariana, TN _(2015 - 2020)_
 <br><br>
 
