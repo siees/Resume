@@ -23,30 +23,23 @@ Software services Agency focused on providing digital solutions for the canadian
 ## 📌 On The Side
 
 **Co-founder** @ [ChilaBila](https://chilabila.shop/) _(May 2021 - Present)_ <br>
-Free, two-day workshops to help people build their first website.
-  - Creating a curriculum that covers HTML, CSS and a bit of JavaScript 
-  - Preparing supplemental presentations on topics like accessibility and animations
-  - Events in Nürnberg and Vienna, now post-poned due to the COVID-19 outbreak 
+
   <br><br>
 
-**Freelancer** @ [ReDI School of Digital Integration](https://www.redi-school.org/) _(Feb 2017 - Aug 2021)_<br>
-Non-profit digital school for tech-interested newcomers applying for asylum in Germany.
-  - Built and continuously developed the course curriculum with a team of 4-8 other instructors
-  - Led classes to improve student comprehension of React, HTML, CSS and general web design principles
-  - Mentored students through presentations and job search
-  - _Note: Took a break from teaching in 2019_
+**Freelancer** _(Feb 2017 - Aug 2021)_<br>
+
   <br><br>
 
 ## 🙋‍♂️ Volunteer Experience
     
 **Member** @ [Junior Chamber International Belvédère](https://jci.cc) _(Jun 2021 - Present)_ <br>
-Built a web Application that calculates potential social, cultural and political risks in regions depending on a pre-set handbook which analyses news and their contents.
+
 <br><br>
   
 ## 🏆 Accomplishments
 
 **Second place** @ [Tunisia Center for Global Security Studies Hackathon](http://www.ctesg.org) _(Feb 2020)_ <br>
-Built a web application that calculates potential social, cultural, and political risks in regions depending on a pre-set handbook that analyses news and their contents.
+Conceived application that calculates potential social, cultural, and political risks in regions depending on a pre-set handbook that analyses news and their contents.
 <br><br>
 
 ## 💬 Languages
