@@ -6,12 +6,20 @@ _Natural problem solver with strong interpersonal skills and a degree in compute
 
 ## 👨‍💻 Professional Experience
 
-**Software Engineer** @ [Solutions Express QC](https://www.facebook.com/solutionsexpressqc) _(Jan 2020 - Present)_ <br>
-Software services Agency focused on providing digital solutions for the canadian market.
+**Full Stack Consultant** @ [EmeralDevs](https://emeraldevs.com) _(Jan 2020 - Present)_ <br>
+EmeralDevs is an IT Services company providing Web & Mobile solutions for its global customer base.
+  - Integrated games and score module for an online gambling website
+  - Maintained and developed new features for a Customer Relationship Management Mobile App
+  - Developed and maintained automated Web Scrappers
+  - **_Technologies used:_** TypeScript, Angular, React, Redux, Next.js, Vue.js, Node.js, Express, SQL, MongoDB, REST, Jest, Python, Java
+    <br><br>
+
+**Software Engineer Intern** @ [Allo Alarme](https://alloalarme.ca) _(Jan 2021 - Jan 2022)_ <br>
+Allo ALarme is a canadian company versed in the selling Security Systems and Smart Home gadgets.
   - Collaborated with marketing, human resource, and finance departments to analyze and conceive a new solution architecture that focuses on improving information integration between departments, reducing security vulnerabilities, and highlighting employees' performance
   - Designed and developed a Customer Relationship Management system for the sales department that increased sales team performance by 65%
   - Managed employee training of all recruits for over three months and offered continuous advice, guidance, and mentorship on duties and best practices
-  - **_Technologies used:_** TypeScript, React, Redux, Next.js, Node.js, Express, MongoDB, REST, Jest, Python
+  - **_Technologies used:_** TypeScript, React, Redux, Next.js, Node.js, Express, MongoDB, REST, Jest
     <br><br>
 
 ## 👨‍🎓 Education
