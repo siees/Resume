@@ -28,13 +28,17 @@ Allo ALarme is a canadian company versed in the selling Security Systems and Sma
 [ESPRIT](https://esprit.tn) - Ariana, TN _(2015 - 2020)_
 <br><br>
 
+**Baccalaureate** in Mathematics<br>
+[Attarine High School](https://www.facebook.com/AttarineAriana/?locale=fr_FR) - Ariana, TN _(2009 - 2013)_
+<br><br>
+
 ## 📌 On The Side
 
-**Co-founder** @ [ChilaBila](https://chilabila.shop/) _(May 2021 - Present)_ <br>
+**Co-founder** @ [ChilaBila](https://chilabila.shop/) _(May 2021 - May 2022)_ <br>
 
   <br><br>
 
-**Freelancer** _(Feb 2017 - Aug 2021)_<br>
+**Owner** @ [Chocoholic](https://www.instagram.com/chocoholic.tn/) _(Nov 2022 - Present)_ <br>
 
   <br><br>
 
@@ -45,6 +49,10 @@ Allo ALarme is a canadian company versed in the selling Security Systems and Sma
 <br><br>
   
 ## 🏆 Accomplishments
+
+**First place** @ [I-Techrity Hackathon by I Watch](https://www.iwatch.tn/ar/) _(Feb 2020)_ <br>
+created a cross platform app in which users can check the nationally issued prices of products and send complaints in case of witnessing corruption in pricing.
+<br><br>
 
 **Second place** @ [Tunisia Center for Global Security Studies Hackathon](http://www.ctesg.org) _(Feb 2020)_ <br>
 Conceived application that calculates potential social, cultural, and political risks in regions depending on a pre-set handbook that analyses news and their contents.
